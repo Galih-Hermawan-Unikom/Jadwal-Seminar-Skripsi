@@ -1,0 +1,102 @@
+[
+    {
+        "NIM": "10119274",
+        "NAMA": "INGTIAZ DYAH NURUL HIDAYAH",
+        "JUDUL": "Sistem Penjadwalan Tenaga Perawat Menggunakan Algoritma Genetika di Rumah Sakit Angkatan Udara (RSAU) dr. M. Salamun",
+        "DOSEN PEMBIMBING": "Tati Harihayati M., S.T., M.T.",
+        "DOSEN REVIEWER": "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "WAKTU": "08.00-09.15",
+        "RUANG": "R6010",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120051",
+        "NAMA": "MUHAMMAD BAGAS ADIKARA",
+        "JUDUL": "Pembangunan Website Pembelajaran Grammar Bahasa Inggris Melalui Gamifikasi",
+        "DOSEN PEMBIMBING": "Andri Heryandi, S.T., M.T.",
+        "DOSEN REVIEWER": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "WAKTU": "08.00-09.15",
+        "RUANG": "R6028",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120034",
+        "NAMA": "ARIQ FADHILAH SAPUTRA",
+        "JUDUL": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+        "DOSEN PEMBIMBING": "Tati Harihayati M., S.T., M.T.",
+        "DOSEN REVIEWER": "Sufaatin, S.T., M.Kom.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "R6010",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120903",
+        "NAMA": "YORA BARERA",
+        "JUDUL": "Optimasi dalam Sistem Aplikasi Pencatatan Data Produksi di P. Kahatex dengan Memanfaatkan Teknologi Cloud Computing",
+        "DOSEN PEMBIMBING": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "DOSEN REVIEWER": "Eko Budi Setiawan, S.Kom., M.T.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "R6028",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120082",
+        "NAMA": "FIRDAUS MUHAMMAD RIDHO",
+        "JUDUL": "Sistem Perbaikan Kualitas Layanan Menggunakan Metode Servqual di Cafe Metavoya Of Foodstep",
+        "DOSEN PEMBIMBING": "Anna Dara Andriana, S.Kom., M.Kom",
+        "DOSEN REVIEWER": "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6010",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120906",
+        "NAMA": "SANSAN FAJRIAN",
+        "JUDUL": "Pembangunan Aplikasi Monitoring Proyek Berbasis Web Memanfaatkan Teknologi Cloud di PT. Padepokan Tujuh Sembilan",
+        "DOSEN PEMBIMBING": "Irfan Maliki, S.T., M.T.",
+        "DOSEN REVIEWER": "Andri Heryandi, S.T., M.T.",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6028",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120254",
+        "NAMA": "ALFI ADITYA ZUFAR",
+        "JUDUL": "Pengembangan Sistem Pencatatan Ternak Sapi Digital Berbasis QR Code Menggunakan Teknologi Blockchain",
+        "DOSEN PEMBIMBING": "Irawan Afrianto, S.T., M.T.",
+        "DOSEN REVIEWER": "Angga Setiyadi, S.Kom., M.Kom",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R5305",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120114",
+        "NAMA": "RAYHAN RAHMAN MIRAJ BUNYAMIN RUSTANDAR",
+        "JUDUL": "Reengineering Website Juragan Panel Menggunakan Metode Clean Code",
+        "DOSEN PEMBIMBING": "Alif Finandhita, S.Kom., M.T.",
+        "DOSEN REVIEWER": "Dian Dharmayanti, S.T., M.Kom.",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R5307",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120191",
+        "NAMA": "AHMAD MUJAHID RAMDHANI",
+        "JUDUL": "Pengembangan Sistem Pemetaan Lahan Sawit dengan Teknologi Blockchain",
+        "DOSEN PEMBIMBING": "Irawan Afrianto, S.T., M.T.",
+        "DOSEN REVIEWER": "Richi Dwi Agustia, M.Kom.",
+        "WAKTU": "13.00-14.15",
+        "RUANG": "R6010",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    },
+    {
+        "NIM": "10120066",
+        "NAMA": "EKY NUGRAHA HERIAWAN",
+        "JUDUL": "Sistem Monitoring Kegiatan Penjualan Menggunakan Metode Performance Dashboard di PT. Yans Sumber Segar",
+        "DOSEN PEMBIMBING": "Sufaatin, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Tati Harihayati M., S.T., M.T.",
+        "WAKTU": "13.00-14.15",
+        "RUANG": "R6028",
+        "TANGGAL": "Jumat, 21 Juni 2024"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "NIM": "10120222",
+        "NAMA": "MARTINUS CELVYN SITUMORANG",
+        "JUDUL": "Sistem Optimalisasi Mesin Produksi dengan Metode Overall Equipment Effectiveness (OEE) di PT. Bandung Lautan Kemasan",
+        "DOSEN PEMBIMBING": "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "DOSEN REVIEWER": "Anna Dara Andriana, S.Kom., M.Kom",
+        "WAKTU": "08.00-09.15",
+        "RUANG": "R6010",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120102",
+        "NAMA": "FASYA MUTIARA PAGI",
+        "JUDUL": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+        "DOSEN PEMBIMBING": "Nelly Indriani W, S.Si., M.T.",
+        "DOSEN REVIEWER": "Kania Evita Dewi, S.Pd., M.Si.",
+        "WAKTU": "08.00-09.15",
+        "RUANG": "R6028",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10123702",
+        "NAMA": "MUHAMAD RIZKY FAUZAN",
+        "JUDUL": "Sistem Rekomendasi Tanaman Berdasarkan Kesuburan Lahan Berbasis Internet of Thing (IoT)",
+        "DOSEN PEMBIMBING": "Hanhan Maulana, M.Kom., Ph.D.",
+        "DOSEN REVIEWER": "Didit Andri Jatmiko, S.Kom., M.T.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "R6010",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120012",
+        "NAMA": "MUHAMMAD FADHLAN PUTRA F",
+        "JUDUL": "Sistem Pengadaan Persediaan Obat Menggunakan Metode Fuzzy Time Series di PT. Laju Dhikara Abadi",
+        "DOSEN PEMBIMBING": "Sufaatin, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Rani Susanto, S.Kom, M.Kom.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "R6028",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120723",
+        "NAMA": "MUH.YUSUF DALILUL FALIHIN SYAHPUTRA",
+        "JUDUL": "Strategi Efektifitas Pemasaran UMKM di Kota Bandung untuk Memaksimalkan Promosi Produk dengan Menggunakan Whatsapp Cloud API",
+        "DOSEN PEMBIMBING": "Iskandar Ikbal, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Didit Andri Jatmiko, S.Kom., M.T.",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6010",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120079",
+        "NAMA": "AZHAR ALFAINI",
+        "JUDUL": "Sistem Penentuan Jumlah Pembelian Produk Menggunakan Metode Single Moving Average di CV. Rumah Sablon 354",
+        "DOSEN PEMBIMBING": "Sufaatin, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Utami Dewi W, S.Kom., M.Kom",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6028",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120706",
+        "NAMA": "HILMI MUHAMMAD",
+        "JUDUL": "Clustering Menggunakan Algoritma K-Means untuk Mengelompokkan Daerah dengan Tingkat Kriminalitas Tertinggi di Wilayah Kota Bandung (Studi Kasus : Polrestabes Bandung)",
+        "DOSEN PEMBIMBING": "Dian Dharmayanti, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "Dago7",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120236",
+        "NAMA": "ZULFIKAR AZIZAN",
+        "JUDUL": "Penerapan JSON Web Token untuk Keamanan Autentikasi Web Service Data Prestasi Mahasiswa Universitas Pendidikan Indonesia",
+        "DOSEN PEMBIMBING": "Eko Budi Setiawan, S.Kom., M.T.",
+        "DOSEN REVIEWER": "Chrismikha Haryanto, S.Kom.,M.Kom",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R4417",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120167",
+        "NAMA": "BINTANG ZULHIKMAN HAKIM",
+        "JUDUL": "Sistem Monitoring dan Evaluasi Produksi Susu Menggunakan Metode Key Performance Indicator di KPSBU Lembang",
+        "DOSEN PEMBIMBING": "Utami Dewi W, S.Kom., M.Kom",
+        "DOSEN REVIEWER": "Riani Lubis, S.T., M.T.",
+        "WAKTU": "11.45-13.00",
+        "RUANG": "R6010",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120170",
+        "NAMA": "MOCH. KAMALUDIN ICHSAN",
+        "JUDUL": "Sistem Manajemen Pembayaran Indekos Berbasis Internet of Things",
+        "DOSEN PEMBIMBING": "Didit Andri Jatmiko, S.Kom., M.T.",
+        "DOSEN REVIEWER": "Hanhan Maulana, M.Kom., Ph.D.",
+        "WAKTU": "11.45-13.00",
+        "RUANG": "R6028",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120763",
+        "NAMA": "HADI PRANATA JATI",
+        "JUDUL": "Implementasi Penetration Testing Dengan Metode Zero Entry Hacking (ZEH) Pada Sistem Koperasi Serba Usaha Postra",
+        "DOSEN PEMBIMBING": "Richi Dwi Agustia, M.Kom.",
+        "DOSEN REVIEWER": "Irawan Afrianto, S.T., M.T.",
+        "WAKTU": "13.00-14.15",
+        "RUANG": "R6010",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    },
+    {
+        "NIM": "10120714",
+        "NAMA": "ABDUL AZIZ",
+        "JUDUL": "Sistem Penentuan Pembelian Bahan Baku Frame Menggunakan Metode Economic Order Quantity (EOQ) pada Perdana Photo Group",
+        "DOSEN PEMBIMBING": "Riani Lubis, S.T., M.T.",
+        "DOSEN REVIEWER": "Tati Harihayati M., S.T., M.T.",
+        "WAKTU": "13.00-14.15",
+        "RUANG": "R6028",
+        "TANGGAL": "Kamis, 20 Juni 2024"
+    }
+]

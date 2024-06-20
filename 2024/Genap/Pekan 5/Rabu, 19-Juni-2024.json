@@ -1,0 +1,132 @@
+[
+  {
+    "NIM": "10118389",
+    "NAMA": "MUHAMMAD SALMAN AL FARISI",
+    "JUDUL": "Pembangunan Aplikasi Diet & Jogging Berbasis Android",
+    "DOSEN PEMBIMBING": "Hidayat, M.T.",
+    "DOSEN REVIEWER": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+    "WAKTU": "08.00-09.15",
+    "RUANG": "R6010",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120221",
+    "NAMA": "BRAMANTYO BUDI JATMIKO",
+    "JUDUL": "Deteksi Objek Sampah Organik dan Anorganik dari Rumah Tangga Menggunakan Metode You Only Look Once (YOLO) V8",
+    "DOSEN PEMBIMBING": "Nelly Indriani W, S.Si., M.T.",
+    "DOSEN REVIEWER": "Galih Hermawan, S.Kom, M.T.",
+    "WAKTU": "08.00-09.15",
+    "RUANG": "R6028",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120056",
+    "NAMA": "CHIKA RIZKI NURAULIA",
+    "JUDUL": "Pembangunan Virtual Tour 360 Degree Panoramic sebagai Media Penjualan Properti Berbasis Web",
+    "DOSEN PEMBIMBING": "Iskandar Ikbal, S.T., M.Kom.",
+    "DOSEN REVIEWER": "Sopian Alviana, S.Kom.,M.Kom.",
+    "WAKTU": "08.00-09.15",
+    "RUANG": "tidak",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120728",
+    "NAMA": "ILHAM ASSIDIQ",
+    "JUDUL": "Pembangunan Aplikasi Game Edukasi dalam Pembelajaran Mufrodat Bahasa Arab Kelas 5 di SD Al Ihsan Islamic School",
+    "DOSEN PEMBIMBING": "Hidayat, M.T.",
+    "DOSEN REVIEWER": "Hanhan Maulana, M.Kom., Ph.D.",
+    "WAKTU": "09.15-10.30",
+    "RUANG": "R6010",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10119327",
+    "NAMA": "HABEAHAN LANDO RAY MAHA",
+    "JUDUL": "Pemilihan Fitur Menggunakan Gain Ratio untuk Mendeteksi Hoaks pada Berita",
+    "DOSEN PEMBIMBING": "Dr. Ednawati Rainarli, S.Si., M.Si.",
+    "DOSEN REVIEWER": "Kania Evita Dewi, S.Pd., M.Si.",
+    "WAKTU": "09.15-10.30",
+    "RUANG": "R6028",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120272",
+    "NAMA": "SALSABILA MARHAN",
+    "JUDUL": "Implementasi Externally Hosted Private Cloud Aplikasi Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 Citeureup",
+    "DOSEN PEMBIMBING": "Sopian Alviana, S.Kom.,M.Kom.",
+    "DOSEN REVIEWER": "Iskandar Ikbal, S.T., M.Kom.",
+    "WAKTU": "09.15-10.30",
+    "RUANG": "tidak",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10118089",
+    "NAMA": "IFANKA WIRALANGGA",
+    "JUDUL": "Game Pathway-Finding 3D Mencari Rute Terpendek Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort",
+    "DOSEN PEMBIMBING": "Irfan Maliki, S.T., M.T.",
+    "DOSEN REVIEWER": "Galih Hermawan, S.Kom, M.T.",
+    "WAKTU": "10.30-11.45",
+    "RUANG": "R6010",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120230",
+    "NAMA": "MUHAMMAD HILMAN RAHMAT",
+    "JUDUL": "Penerapan Data Mining untuk Menentukan Promosi Produk Berdasarkan Pola Pembelian di Toko Bolu Pisang Bu Wita",
+    "DOSEN PEMBIMBING": "Fakhrian Fadlia, S.Kom.M.Kom.",
+    "DOSEN REVIEWER": "Dian Dharmayanti, S.T., M.Kom.",
+    "WAKTU": "10.30-11.45",
+    "RUANG": "R6028",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120232",
+    "NAMA": "TRI RAMDHAN SEPTIADI",
+    "JUDUL": "Pembangunan Aplikasi Pemanfaatan Kualitas Tidur Berbasis Android",
+    "DOSEN PEMBIMBING": "Eko Budi Setiawan, S.Kom., M.T.",
+    "DOSEN REVIEWER": "Ir.Taryana Suryana, M.Kom.",
+    "WAKTU": "10.30-11.45",
+    "RUANG": "tidak",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120789",
+    "NAMA": "TAUFIQ RIDHO ADI WASKITA",
+    "JUDUL": "Virtual Assistant untuk Desain Gitar di PT. Stranough Firma Indonesia",
+    "DOSEN PEMBIMBING": "Richi Dwi Agustia, M.Kom.",
+    "DOSEN REVIEWER": "Hanhan Maulana, M.Kom., Ph.D.",
+    "WAKTU": "11.45-13.00",
+    "RUANG": "R6010",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10119307",
+    "NAMA": "MULYANA",
+    "JUDUL": "Rancang Bangun Aplikasi Absensi Multiple Face Recognition di SMP Pertiwi",
+    "DOSEN PEMBIMBING": "Andri Heryandi, S.T., M.T.",
+    "DOSEN REVIEWER": "Eko Budi Setiawan, S.Kom., M.T.",
+    "WAKTU": "11.45-13.00",
+    "RUANG": "tidak",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120001",
+    "NAMA": "RUDIANSYAH ADI PRASETYO",
+    "JUDUL": "Pengembangan Teknologi Game Interaktif dalam Pendidikan Lingkungan : Implementasi Game untuk Pemilahan dan Pengelolaan Sampah",
+    "DOSEN PEMBIMBING": "Dedeng Hirawan, S.Kom., M.Kom",
+    "DOSEN REVIEWER": "Richi Dwi Agustia, M.Kom.",
+    "WAKTU": "13.00-14.15",
+    "RUANG": "R6010",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  },
+  {
+    "NIM": "10120774",
+    "NAMA": "DIAN RAHMAWATI",
+    "JUDUL": "Implementasi Data Mining dengan Algoritma Naive Bayes untuk Klasifikasi Kelayakan Penerima Bantuan Sembako di Kel. Cibeureum",
+    "DOSEN PEMBIMBING": "Alif Finandhita, S.Kom., M.T.",
+    "DOSEN REVIEWER": "Fakhrian Fadlia, S.Kom.M.Kom.",
+    "WAKTU": "13.00-14.15",
+    "RUANG": "R6028",
+    "TANGGAL": "Rabu, 19 Juni 2024"
+  }
+]

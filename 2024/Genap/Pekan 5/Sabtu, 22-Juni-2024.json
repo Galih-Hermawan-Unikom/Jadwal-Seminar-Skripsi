@@ -1,0 +1,92 @@
+[
+    {
+        "NIM": "10120188",
+        "NAMA": "ABDURRAZAK SYAKIR MUHARAM",
+        "JUDUL": "Penerapan Metode Social Network Analysis pada Media Sosial X (Twitter) untuk Mengidentifikasi Buzzer",
+        "DOSEN PEMBIMBING": "Dian Dharmayanti, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Alif Finandhita, S.Kom., M.T.",
+        "WAKTU": "08.00-09.15",
+        "RUANG": "Dago7",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120193",
+        "NAMA": "WINDA ASMARAWATI",
+        "JUDUL": "Implementasi Deep Convolutional Generative Adversarial Networks (DCGAN) untuk Augmentasi Data Dalam Deteksi Penyakit Daun Padi",
+        "DOSEN PEMBIMBING": "Kania Evita Dewi, S.Pd., M.Si.",
+        "DOSEN REVIEWER": "Dr. Ednawati Rainarli, S.Si., M.Si.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "R6010",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120003",
+        "NAMA": "BAYU RIFKI ALGHIFARI",
+        "JUDUL": "Pembangunan Platform Media Sosial Omnichannel di CV. Adikarya Infinit",
+        "DOSEN PEMBIMBING": "Ir.Taryana Suryana, M.Kom.",
+        "DOSEN REVIEWER": "Eko Budi Setiawan, S.Kom., M.T.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "R6028",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120737",
+        "NAMA": "MUHAMMAD ADILFI AL HAFIDZ",
+        "JUDUL": "Sistem Monitoring dan Evaluasi Penyelenggaraan Pelatihan dan Fasilitator Menggunakan Metode Performance Dashboard di Pusat Pengembangan Kepegawaian ASN BKN",
+        "DOSEN PEMBIMBING": "Riani Lubis, S.T., M.T.",
+        "DOSEN REVIEWER": "Rani Susanto, S.Kom, M.Kom.",
+        "WAKTU": "09.15-10.30",
+        "RUANG": "Dago7",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120740",
+        "NAMA": "ADNAN AL-FARIZI RAHMAT",
+        "JUDUL": "Penerapan Data Mining untuk Mengetahui Topik dalam Media Sosial Twitter",
+        "DOSEN PEMBIMBING": "Dian Dharmayanti, S.T., M.Kom.",
+        "DOSEN REVIEWER": "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6009",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120052",
+        "NAMA": "EDDY ROCHMAN",
+        "JUDUL": "Sistem Penjadwalan Produksi Tas Menggunakan Metode Shortest Prosesing Time (SPT) di CV. Idola Indonesia",
+        "DOSEN PEMBIMBING": "Tati Harihayati M., S.T., M.T.",
+        "DOSEN REVIEWER": "Utami Dewi W, S.Kom., M.Kom",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6010",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120084",
+        "NAMA": "FADLAN ALFALAH BAIHAQI",
+        "JUDUL": "Pemantauan Ketersediaan Slot Parkir dengan Integrasi Sensor",
+        "DOSEN PEMBIMBING": "Ir.Taryana Suryana, M.Kom.",
+        "DOSEN REVIEWER": "Andri Heryandi, S.T., M.T.",
+        "WAKTU": "10.30-11.45",
+        "RUANG": "R6028",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120015",
+        "NAMA": "MAHENDRA NUGRAHA",
+        "JUDUL": "Sistem Optimalisasi Kebutuhan Bahan Baku Produksi Teh Menggunakan Metode Simpleks di PT. Perkebunan Nusantara VIII Kebun Ciater",
+        "DOSEN PEMBIMBING": "Rani Susanto, S.Kom, M.Kom.",
+        "DOSEN REVIEWER": "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "WAKTU": "11.45-13.00",
+        "RUANG": "R6010",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    },
+    {
+        "NIM": "10120070",
+        "NAMA": "FIKRI ADAM PRATAMA SUTANTO",
+        "JUDUL": "Sistem Penentuan Jumlah Pembelian Aksesoris Kesehatan Menggunakan Metode Weighted Moving Average di CV. Three Star Cahaya Buana",
+        "DOSEN PEMBIMBING": "Utami Dewi W, S.Kom., M.Kom",
+        "DOSEN REVIEWER": "Riani Lubis, S.T., M.T.",
+        "WAKTU": "11.45-13.00",
+        "RUANG": "R6010",
+        "TANGGAL": "Sabtu, 22 Juni 2024"
+    }
+]
